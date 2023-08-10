@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Solution Developer",
-    cardImage: "assets/images/experience-page/Infoaxon.jpg",
+    cardImage: "assets/images/experience-page/infoaxon.jpg",
     place: "Infoaxon",
     time: "(May, 2021 - present)",
     desp: "<li>Use Java technology to add functionalities to existing applications.</li><li>Conduct user requirements analysis to design and program application and deliver support for system enhancement.</li><li>Play a pivotal role as a part of core team of UI revamp project </li>",
@@ -141,7 +141,7 @@ const mentor = [
   {
     title: "Penned Peeps ",
     subtitle: "Coordinator",
-    image: "assets/images/experience-page/Penned peeps.jpg",
+    image: "assets/images/experience-page/penned peeps.jpg",
     desp: "Worked as an event coordinator back in 2018",
     href: "https://elevatetech.codes/",
   },
