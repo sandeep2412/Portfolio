@@ -104,14 +104,14 @@ const mentor = [
     subtitle: "Founder",
     image: "assets/images/experience-page/writers world india.jpg",
     desp: "Writer's world india is an NGO founded by me back in 2017 to provide a platform to budding writer's by orgainising competitions and events all over india ",
-    href: "https://uplift.girlscript.tech/",
+    href: "https://www.signalhire.com/companies/writers-world-india",
   },
   {
     title: "Inshaad",
     subtitle: "Event Manager",
     image: "assets/images/experience-page/inshaad.jpg",
     desp: "Organized 2 big literature festival in delhi in last 3 years",
-    href: "https://ulhacks.com/",
+    href: "https://www.zaubacorp.com/company/INSHAAD-FOUNDATION/U85300MH2021NPL373889",
   },
   
   {
@@ -119,7 +119,7 @@ const mentor = [
     subtitle: "Community Head",
     image: "assets/images/experience-page/image24.png",
     desp: "Handled all the responsibilites related to events ,ngo drives and hiring ",
-    href: "https://www.linkedin.com/company/pitchteen/about/",
+    href: "https://www.instagram.com/p/CDNwxBCFfuF/",
   },
 
   {
@@ -127,7 +127,7 @@ const mentor = [
     subtitle: "Representative",
     image: "assets/images/experience-page/image27.jpg",
     desp: "Represented Nojoto in many colleges events",
-    href: "https://hackasolution.devpost.com/",
+    href: "https://nojoto.com/",
   },
 
   {
@@ -135,7 +135,7 @@ const mentor = [
     subtitle: "Event Planner",
     image: "assets/images/experience-page/DPC.jpg",
     desp: "Organised more than 30 events in 2 years for this community in delhi",
-    href: "https://wafflehacks.org/",
+    href: "",
   },
  
   {
@@ -143,7 +143,7 @@ const mentor = [
     subtitle: "Coordinator",
     image: "assets/images/experience-page/penned peeps.jpg",
     desp: "Worked as an event coordinator back in 2018",
-    href: "https://elevatetech.codes/",
+    href: "https://nojoto.com/",
   },
  
   {
@@ -151,7 +151,7 @@ const mentor = [
     subtitle: "Marketing Expert",
     image: "assets/images/experience-page/image25.png",
     desp: "Worked as a marketing head and handled all the social media platforms",
-    href: "https://hackasolution.devpost.com/",
+    href: "",
   },
  
  

@@ -447,7 +447,7 @@ $(window).on("load", function () {
 $(document).ready(function() {
   $("#lnch").on("click", function() {
     // Replace the URL with the actual URL of your resume file
-    var resumeURL = "assets/docs/sandeepkr-resume.pdf";
+    var resumeURL = "assets/docs/Resume_SandeepKr.pdf";
     var downloadLink = $("<a></a>").attr("href", resumeURL).attr("download", "sandeepkr-resume.pdf");
     $("body").append(downloadLink);
     downloadLink[0].click();
